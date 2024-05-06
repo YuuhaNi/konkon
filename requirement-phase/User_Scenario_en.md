@@ -11,7 +11,7 @@ This application is designed for participants of open campus events to explore l
 - **Event Guide**: A printed guide containing a QR code, map, and rules explanation.
 - **Landmark**: Specific significant or notable locations or objects within the campus.
 
-### User Operation Scenario
+### User Scenario
 
 #### 1. Introduction and Start
 
