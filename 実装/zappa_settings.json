@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "ap-northeast-1",
+        "exclude": [
+            "boto3",
+            "dateutil",
+            "botocore",
+            "s3transfer",
+            "concurrent"
+        ],
+        "profile_name": "default",
+        "project_name": "flask",
+        "runtime": "python3.12",
+        "s3_bucket": "gpt-konkon-project-bucket",
+        "environment_variables": {
+            "LINE_CHANNEL_ACCESS_TOKEN": "AY0VZ7IG093kzDLEECJPqPwrwr1eiwg+b8odknd5kDdJZoiWmqh8tLjKktEPNWmm/fkkvp36TU9XEQY442+a09hotZDbJbc5xqOOzsn9MWK2nnK9Lrlap+SZx0JSaf4KKQGX47ZjWSO7lfJc9Iyd2gdB04t89/1O/w1cDnyilFU=",
+            "LINE_CHANNEL_SECRET": "c9a7c3a86b5dc483d7dc40467f8b3415"
+        }
+    }
+}

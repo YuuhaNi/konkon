@@ -1,0 +1,5 @@
+Flask==2.0.1
+boto3==1.18.21
+line-bot-sdk==1.19.0
+python-dotenv==0.19.2
+zappa==0.53.0
